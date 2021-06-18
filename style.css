@@ -77,11 +77,11 @@ html{
 }
 
 #mw{
-    background-color:aliceblue;
+    background-color:blue;
 }
 
 .link:hover{
-    background-color:dodgerblue;
+    background-color:yellow;
 }
 
 h3{
@@ -91,4 +91,20 @@ h3{
 .heading{
     font-size:35px;
     color:black;
+}
+
+#elonMusk{
+    width:500px;
+}
+
+#isp{
+    background-color:yellow;
+}
+
+#ispInfo{
+    font-size:20px;
+}
+
+#ispName{
+    font-size:30px;
 }
